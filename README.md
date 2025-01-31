@@ -1,3 +1,5 @@
+test
+
 This application is used for demo a simple usecase using CRC with microshift preset.
 
 Run CRC with microshift preset
